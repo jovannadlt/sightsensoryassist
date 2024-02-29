@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sightsensoryassist/static/css/main.8a51b495.chunk.css",
+    "main.js": "/sightsensoryassist/static/js/main.cff91fd0.chunk.js",
+    "main.js.map": "/sightsensoryassist/static/js/main.cff91fd0.chunk.js.map",
+    "runtime~main.js": "/sightsensoryassist/static/js/runtime~main.0d16326d.js",
+    "runtime~main.js.map": "/sightsensoryassist/static/js/runtime~main.0d16326d.js.map",
+    "static/js/2.86ac9994.chunk.js": "/sightsensoryassist/static/js/2.86ac9994.chunk.js",
+    "static/js/2.86ac9994.chunk.js.map": "/sightsensoryassist/static/js/2.86ac9994.chunk.js.map",
+    "static/js/3.78ea13c0.chunk.js": "/sightsensoryassist/static/js/3.78ea13c0.chunk.js",
+    "static/js/3.78ea13c0.chunk.js.map": "/sightsensoryassist/static/js/3.78ea13c0.chunk.js.map",
+    "index.html": "/sightsensoryassist/index.html",
+    "precache-manifest.5de9a73e0b68f3b38497a68961c7eb8c.js": "/sightsensoryassist/precache-manifest.5de9a73e0b68f3b38497a68961c7eb8c.js",
+    "service-worker.js": "/sightsensoryassist/service-worker.js",
+    "static/css/main.8a51b495.chunk.css.map": "/sightsensoryassist/static/css/main.8a51b495.chunk.css.map",
+    "static/media/IMG_3832.jpg": "/sightsensoryassist/static/media/IMG_3832.545fe550.jpg",
+    "static/media/eye-removebg-preview.png": "/sightsensoryassist/static/media/eye-removebg-preview.bd1fd393.png",
+    "static/media/group-photo.jpg": "/sightsensoryassist/static/media/group-photo.bbac7d7c.jpg",
+    "static/media/prototype.jpeg": "/sightsensoryassist/static/media/prototype.3ab3e1fb.jpeg",
+    "static/media/sm2-removebg-preview.png": "/sightsensoryassist/static/media/sm2-removebg-preview.03977501.png"
+  }
+}
